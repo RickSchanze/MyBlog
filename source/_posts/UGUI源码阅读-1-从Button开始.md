@@ -18,6 +18,8 @@ date: 2024-05-13 22:39:45
 
 注意：**本文采用的Unity版本是Unity6000.0.0f1c1**
 
+下一篇：[UGUI源码阅读(2)--Image的更新流程 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/79fdc967.html)
+
 # 开始
 
 首先，我们编写一个脚本，用于Debug。

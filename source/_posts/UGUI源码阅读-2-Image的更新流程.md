@@ -12,9 +12,11 @@ date: 2024-05-27 08:56:26
 
 # 前言
 
-大家好！本篇文章是UGUI源码阅读文章的第二篇，上一篇为：[UGUI源码阅读(1)--从Button开始 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/5f2caef2.html)
+大家好！本篇文章是UGUI源码阅读文章的第二篇。
 
 本篇文章主要介绍组件`Image`的更新流程，在本篇文章，我们将会了解：脏标记模式（设计模式）、Graphics类、GraphicsRegistry类、UI元素Rebuild流程等。
+
+上一篇为：[UGUI源码阅读(1)--从Button开始 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/5f2caef2.html)
 
 # Image简单介绍
 
