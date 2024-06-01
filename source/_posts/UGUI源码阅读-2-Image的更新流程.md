@@ -18,6 +18,8 @@ date: 2024-05-27 08:56:26
 
 上一篇为：[UGUI源码阅读(1)--从Button开始 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/5f2caef2.html)
 
+下一篇为：[UGUI源码阅读（3）- Image网格顶点生成与实践 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/6b2c390b.html)
+
 # Image简单介绍
 
 `Image`组件是UGUI中重要的用于显示图片的一个组件，如下：
