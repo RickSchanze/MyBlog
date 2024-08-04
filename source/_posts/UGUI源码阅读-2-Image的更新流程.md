@@ -8,6 +8,7 @@ categories:
 typora-root-url: ./..
 abbrlink: 79fdc967
 date: 2024-05-27 08:56:26
+cover: ./imgs/post/UGUI源码阅读-2-Image的更新流程/image-20240527094154320.png
 ---
 
 # 前言

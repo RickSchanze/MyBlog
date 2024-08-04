@@ -8,6 +8,7 @@ categories:
 typora-root-url: ./..
 abbrlink: 6b2c390b
 date: 2024-05-31 09:03:38
+cover: ./imgs/post/UGUI源码阅读（3）-Image网格顶点生成与实践/image-20240601131419483.png
 ---
 
 # 前言

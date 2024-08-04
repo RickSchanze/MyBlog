@@ -10,6 +10,7 @@ category:
 typora-root-url: ./..
 abbrlink: '539e8922'
 date: 2024-08-04 10:52:59
+cover: ./imgs/post/点光源-Specialization-Constant-以及变换}/2024-08-04_12-08-23.gif
 ---
 
 ## 一、前言

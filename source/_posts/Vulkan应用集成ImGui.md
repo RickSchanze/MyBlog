@@ -8,6 +8,7 @@ category:
 abbrlink: 8e451ae
 date: 2024-05-11 10:56:55
 typora-root-url: ./..
+cover: ./imgs/post/Vulkan应用集成ImGui/image-20240511120640828.png
 ---
 # 前 言
 大家好！这是我的第一篇博客。
