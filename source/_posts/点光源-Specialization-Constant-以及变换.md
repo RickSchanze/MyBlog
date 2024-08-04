@@ -424,6 +424,8 @@ void LiteForwardRenderPipeline::Build()
 
 ## 三、变换与管道风格的数学运算
 
+这里的代码在[RickSchanze/ElbowEngine at TransformHierarchy (github.com)](https://github.com/RickSchanze/ElbowEngine/tree/TransformHierarchy)
+
 ### 3.1 变换的实现
 
 我们在变换父对象和子对象时，不能简单的设置一次就更新一次，因为一帧里可能有大量的变换操作，一设置就更新会大量重复操作，因此我们需要将一帧分为多个阶段、在帧结束时对需要进行变换的对象再进行计算。
