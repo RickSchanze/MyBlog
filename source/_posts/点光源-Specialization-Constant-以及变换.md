@@ -27,7 +27,7 @@ cover: ./imgs/post/点光源-Specialization-Constant-以及变换}/2024-08-04_12
 
 上一篇：[Vulkan应用集成ImGui | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/8e451ae.html)
 
-本篇：
+本篇：[点光源(Specialization Constant)以及变换 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/539e8922.html)
 
 ## 一、当前系统组织简介
 
