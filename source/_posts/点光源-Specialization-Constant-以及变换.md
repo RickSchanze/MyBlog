@@ -29,6 +29,8 @@ cover: ./imgs/post/点光源-Specialization-Constant-以及变换}/2024-08-04_12
 
 本篇：[点光源(Specialization Constant)以及变换 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/539e8922.html)
 
+下一篇：[点光源的阴影 | 喜多喜多のBlog (kita-blog.vercel.app)](https://kita-blog.vercel.app/posts/89ca8f53.html)
+
 ## 一、当前系统组织简介
 
 让我们在正式开始前先介绍一下当前已有的系统。
